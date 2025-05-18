@@ -1,6 +1,6 @@
 This is a full-stack CRUD (Create, Read, Update, Delete) application built with Next.js, React.js, Tailwind CSS, and MongoDB. The application allows users to manage a collection of books, providing an intuitive interface to:
 
-Create: Add new books with details like title, author, and description.
+Create: Add new books with details like title, author, genre  and isbn.
 
 Read: View a list of all books stored in the database.
 
